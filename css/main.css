@@ -45,9 +45,7 @@
   }
 
   #box {
-        width:120px;
-        height:120px;
-        background-color:red;
+        background-color:none;
         display:none;
         position:relative;
         margin: 2px;
